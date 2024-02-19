@@ -1,9 +1,4 @@
-"""
-Classes pour le jeu de bataille
-Auteurs: Dylan Seevathian, William Laguette, Nôa Beya
-Date: 25 février 2021
-Les classes qui vont permettrent de faire fonctinner un jeu de bataille.
-"""
+
 
 class Carte :
     """ Classe pour gérer des cartes, et dont l'attribut est un chiffre et un motif """
